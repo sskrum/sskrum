@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sskrum
 - 👀 I’m interested in ... absorbing all the information
-- 🌱 I’m currently learning ... wireshark analyzing
+- 🌱 I’m currently learning ... WhiteHat Python
 - 💞️ I’m looking to collaborate on ... learning
 - 📫 How to reach me ... phantagram@gmail.com
 
